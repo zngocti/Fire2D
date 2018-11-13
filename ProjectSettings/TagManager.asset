@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Techo
+  - Piso
+  - PisoArriba
+  - PisoAbajo
+  - Musica
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Los Objetos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 502134231
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Adelante
+    uniqueID: 3842555517
+    locked: 0
+  - name: Personas
+    uniqueID: 3345230041
+    locked: 0
+  - name: Jugador
+    uniqueID: 2144761649
+    locked: 0

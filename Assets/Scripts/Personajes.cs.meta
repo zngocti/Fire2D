@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a7ef7d2e34649d542bf5ac185f5230f8
+timeCreated: 1511296146
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameOver: {fileID: 8300000, guid: 9adbd067200f39e4487a21a97dcf1fef, type: 3}
+  - rebote: {fileID: 8300000, guid: fe0aa008cc8d71f43beb10e23ee4aa57, type: 3}
+  - explosion: {fileID: 8300000, guid: ddeac784b36b8e6418a63ac6a20f7a1b, type: 3}
+  - vida: {fileID: 8300000, guid: be82e86d2613ebc4194730ac1ad51e01, type: 3}
+  - caida: {fileID: 8300000, guid: 054c363e71a604645ba380e95ac859e5, type: 3}
+  - audiosourceSonidos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
